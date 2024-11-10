@@ -1,1 +1,1 @@
-"# example-cypress-ui" 
+"Example automatically test with Cypress for functionality" 
